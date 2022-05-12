@@ -19,7 +19,7 @@ const routes = [
   },
 ];
 
-const history = createWebHistory();
+const history = createWebHistory('/resume/');
 
 const router = createRouter({
   history,
