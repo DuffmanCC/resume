@@ -72,6 +72,6 @@
     "Although I still have my base in Faversham, I'm spending more and more time in Spain, that's why if a company wants to offer me a permanent position it should be willing to pay payroll overseas, if that's something that fits your requirements I'm happy to get more info.",
     "Just to clarify my skills, I have solid backend knowledge as a PHP developer with years of experience and I'm improving my skills with Node.js but I don't have any commercial experience with any Node framework. The same with React, I've delevoped lots of SPA with Vue.js but my Reacts experience is not as good as Vue.js.",
     "If you need more info don't hesitate to contact me at <a href='mailto:carlosor@gmail.com' class='hover:underline text-blue-800 dark:text-blue-400'>carlosor@gmail.com</a>",
-    "If you need a PDF version of my resume, here you can download a copy: <a href='/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-2 inline-block'></a>"
+    "If you need a PDF version of my resume, here you can download a copy: <a href='/resume/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-2 inline-block'></a>"
   ]
 }
