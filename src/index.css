@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Font Icons';
+  src: url('./assets/fonticons.woff2') format('woff2');
+}
+
+.icon-envelope:before {
+    content: "\f0e0";
+}
+
+.icon-github:before {
+    content: "\f09b";
+}
+
+.icon-linkedin:before {
+    content: "\f08c";
+}
+
+.icon-phone:before {
+    content: "\f095";
+}
+
+.icon-sun:before {
+    content: "\e28f";
+}
+
+.icon-moon:before {
+    content: "\f186";
+}
+
+.icon-pdf:before {
+    content: "\f1c1";
+}

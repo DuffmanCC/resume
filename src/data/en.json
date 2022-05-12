@@ -1,0 +1,77 @@
+{
+  "profile": "<p class='mb-4'>Full Stack developer specialized in WordPress and single-page applications. I have developed a wide range of websites using the latest trends and frameworks. Skilled at writing efficient, scalable, and maintainable code using current best practices.</p><p class='mb-4'>Over the last 4 years, I've been leading the architecture and development of the corporate website of <a href='https://www.networkrail.co.uk' class='hover:underline text-blue-800 dark:text-blue-400'>Network Rail</a>, implementing new features and functionalities to enhance the user experience.</p><p>Currently improving my skills focusing mainly on Node.js and React.</p>",
+  "experience": [
+    {
+      "title": "Full Stack Web Developer",
+      "company": "Network Rail",
+      "url": "https://www.networkrail.co.uk/",
+      "type": "Full time",
+      "period": "Feb 2018 - April 2022 . 4 years 3 months",
+      "place": "Milton Keynes, United Kingdom",
+      "tasks": [
+        "- Design the architecture, development, and maintenance of the corporate website of the company.",
+        "- Lead on the design and implementation of new features and functionality to enhance the user experience.",
+        "- Custom Gutenberg blocks creation based on Advanced Custom Fields and Vue.js.",
+        "- Creation of a design system based on <a href='https://storybook.js.org/' target='_blank' class='hover:underline text-blue-800 dark:text-blue-400'>Storybook</a> to manage all frontend resources of the corporate website.",
+        "- Creation of single-page applications and other microsites based on Vue.js.",
+        "- Monitor website performance and take appropriate action to ensure optimal performance."
+      ],
+      "skills": ["Vue.js", "Vuex", "TypeScript", "Webpack", "Tailwindcss", "GraphQL",  "Git", "Laravel", "Sage", "WP Engine", "OAuth"],
+      "projects": [
+        {
+          "url": "https://www.networkrail.co.uk", 
+          "title": "Network Rail corporate website"
+        },
+        {
+          "url": "https://www.networkrail.co.uk/careers/careers-search/", 
+          "title": "Careers Search"
+        },
+        {
+          "url": "https://duffmancc.github.io/sustainability-at-network-rail/", 
+          "title": "Sustainability at Network Rail"
+        }
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "Klood Ltd",
+      "url": "https://www.klood.com/",
+      "type": "Full time",
+      "period": "Nov 2015 - Nov 2017 . 2 years 1 month",
+      "place": "Milton Keynes, United Kingdom",
+      "tasks": [
+        "- Meeting with clients to discuss website designs and functions",
+        "- Creating custom plugins, themes, and functions for WordPress websites.",
+        "- Testing front-end code in multiple browsers to ensure cross-browser compatibility.",
+        "- Working with multiple APIs and RESTful Services.",
+        "- Building reusable code and libraries for future use.",
+        "- Optimized pages for page speed using Google Page Speed (API) for Apache to obtain higher rankings on Search Engines (SEM).",
+        "- Front-end development using the latest HTML5 and CSS3 techniques, backed by jQuery to enable optimum user experience throughout the websites.",
+        "- Working in Agile methodology."
+      ],
+      "skills": ["jQuery", "Gulp", "Composer", "Git", "Docker", "Bootstrap", "Sage", "Laravel", "cPanel", "WooCommerce"],
+      "projects": [
+        {
+          "url": "http://www.vwfsfleet.co.uk", 
+          "title": "Volkswagen Financial Services"
+        },
+        {
+          "url": "http://www.peachpubs.com", 
+          "title": "Peach Pubs"
+        },
+        {
+          "url": "http://www.retailthinktank.co.uk", 
+          "title": "Retail think tank"
+        }
+      ]
+    }
+  ],
+  "toRecruiters": [
+    "Dear UK recruiter,",
+    "I'm currently available looking for projects focusing mainly on WordPress, Laravel or pure front-end projects based on Vue.js as a contractor (outside IR35) and full remote.",
+    "Although I still have my base in Faversham, I'm spending more and more time in Spain, that's why if a company wants to offer me a permanent position it should be willing to pay payroll overseas, if that's something that fits your requirements I'm happy to get more info.",
+    "Just to clarify my skills, I have solid backend knowledge as a PHP developer with years of experience and I'm improving my skills with Node.js but I don't have any commercial experience with any Node framework. The same with React, I've delevoped lots of SPA with Vue.js but my Reacts experience is not as good as Vue.js.",
+    "If you need more info don't hesitate to contact me at <a href='mailto:carlosor@gmail.com' class='hover:underline text-blue-800 dark:text-blue-400'>carlosor@gmail.com</a>",
+    "If you need a PDF version of my resume, here you can download a copy: <a href='~/src/assets/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-2 inline-block'></a>"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "profile": "<p class='mb-4'>Full Stack developer especializado en WordPress y aplicaciones de una sola página. He desarrollado una amplia gama de sitios web utilizando las últimas tendencias y frameworks. Habilidad para escribir código eficiente, escalable y mantenible utilizando las mejores prácticas actuales.</p><p class='mb-4'>Durante los últimos 4 años he estado liderando la arquitectura y desarrollo de la web corporativa de <a href='https://www.networkrail.co.uk' class='hover:underline text-blue-800 dark:text-blue-400'>Network Rail</a>, implementando nuevas funcionalidades para mejorar la experiencia del usuario.</p><p>Actualmente sigo formándome y mejorando mis habilidades centrándome mayormente en Node.js y React</p>",
+  "experience": [
+    {
+      "title": "Full Stack Web Developer",
+      "company": "Network Rail",
+      "url": "https://www.networkrail.co.uk/",
+      "type": "Full time",
+      "period": "Feb 2018 - Abril 2022 . 4 años 3 meses",
+      "place": "Milton Keynes, Reino Unido",
+      "tasks": [
+        "- Diseño de la arquitectura, desarrollo y mantenimiento de la página web corporativa de la empresa.",
+        "- Liderar el diseño y la implementación de nuevas características y funcionalidades para mejorar la experiencia de usuario.",
+        "- Creación de bloques personalizados de Gutenberg basados en campos personalizados avanzados y Vue.js",
+        "- Creación de un design system basado en <a href='https://storybook.js.org/' target='_blank' class='hover:underline text-blue-800 dark:text-blue-400'>Storybook</a> para optimizar y estandarizar todos los recursos front-end del sitio corporativo.",
+        "- Creación de SPAs (single-page applications) y otros micros sitios basados en Vue.js y WordPress.",
+        "- Monitorizar el rendimiento del sitio web corporativo y tomar las medidas adecuadas para garantizar un rendimiento óptimo."
+      ],
+      "skills": ["Vue.js", "Vuex", "TypeScript", "Webpack", "Tailwindcss", "GraphQL",  "Git", "Laravel", "Sage", "WP Engine", "OAuth"],
+      "projects": [
+        {
+          "url": "https://www.networkrail.co.uk", 
+          "title": "Network Rail corporate website"
+        },
+        {
+          "url": "https://www.networkrail.co.uk/careers/careers-search/2", 
+          "title": "Careers Search"
+        },
+        {
+          "url": "https://duffmancc.github.io/sustainability-at-network-rail/2", 
+          "title": "Sustainability at Network Rail"
+        }
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "Klood Ltd",
+      "url": "https://www.klood.com/",
+      "type": "Full time",
+      "period": "Nov 2015 - Nov 2017 . 2 years 1 month",
+      "place": "Milton Keynes, United Kingdom",
+      "tasks": [
+        "- Reunión con clientes para discutir diseños y funciones del los sitios web.",
+        "- Creación de complementos, temas y funciones personalizados para sitios web de WordPress.",
+        "- Probar el código front-end en varios navegadores para garantizar la compatibilidad entre navegadores.",
+        "- Trabajar con múltiples APIs y Servicios RESTful.",
+        "- Creación de código y bibliotecas reutilizables para uso futuro.",
+        "- Páginas optimizadas utilizando Google Page Speed (API) para Apache para obtener clasificaciones más altas en los motores de búsqueda (SEM).",
+        "- Desarrollo front-end utilizando las últimas técnicas de HTML5 y CSS3, respaldado por jQuery para permitir una experiencia de usuario óptima en todos los sitios web.",
+        "- Trabajar en metodología Agile."
+      ],
+      "skills": ["jQuery", "Gulp", "Composer", "Git", "Docker", "Bootstrap", "Sage", "Laravel", "cPanel", "WooCommerce"],
+      "projects": [
+        {
+          "url": "http://www.vwfsfleet.co.uk", 
+          "title": "Volkswagen Financial Services"
+        },
+        {
+          "url": "http://www.peachpubs.com", 
+          "title": "Peach Pubs"
+        },
+        {
+          "url": "http://www.retailthinktank.co.uk", 
+          "title": "Retail think tank"
+        }
+      ]
+    }
+  ],
+  "toRecruiters": [
+    "Querido recruiter,",
+    "Estoy disponible buscando projectos como freelances basados en WordPress, Laravel o también projectos front-end basados en Vue.js.",
+    "Tengo un sólido conocimiento de back-end como desarrollador PHP y también de front-end con Vue.js y aunque estoy mejorando mis habilidades con Node.js y React no tengo ninguna experiencia comercial con estas dos tecnologías.",
+    "Si necesitas más info no dudes en escribirme a <a href='mailto:carlosor@gmail.com' class='hover:underline text-blue-800 dark:text-blue-400'>carlosor@gmail.com</a>",
+    "Si necesita una versión en PDF de mi curriculum la puede bajar aquí: <a href='~/src/assets/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-1'></a>"
+  ]
+}
