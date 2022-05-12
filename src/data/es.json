@@ -71,6 +71,6 @@
     "Estoy disponible buscando projectos como freelances basados en WordPress, Laravel o también projectos front-end basados en Vue.js.",
     "Tengo un sólido conocimiento de back-end como desarrollador PHP y también de front-end con Vue.js y aunque estoy mejorando mis habilidades con Node.js y React no tengo ninguna experiencia comercial con estas dos tecnologías.",
     "Si necesitas más info no dudes en escribirme a <a href='mailto:carlosor@gmail.com' class='hover:underline text-blue-800 dark:text-blue-400'>carlosor@gmail.com</a>",
-    "Si necesita una versión en PDF de mi curriculum la puede bajar aquí: <a href='~/src/assets/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-1'></a>"
+    "Si necesita una versión en PDF de mi curriculum la puede bajar aquí: <a href='/carlos-ortiz-resume.pdf' download='carlos-ortiz-resume.pdf' class='cursor-pointer font-icon icon-pdf text-2xl ml-1'></a>"
   ]
 }
