@@ -5,6 +5,6 @@ import './index.css'
 import VueGtag from "vue-gtag"
 
 createApp(App)
-  .use(VueGtag, {config: { id: "G-MJRJC5MREY" }})
+  .use(VueGtag, {config: { id: "G-4DN7JDS8JH" }})
   .use(router)
   .mount('#app')
