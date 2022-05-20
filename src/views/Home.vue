@@ -57,6 +57,18 @@
 
       <p class="text-sm italic">Fluent</p>
     </div>
+
+    <div class="font-light text-lg px-2 mb-6 sm:mb-12">
+      <h2 class="text-xl font-bold mb-3">
+        Download resume:
+
+        <a 
+          href='/resume/carlos-ortiz-resume.pdf' 
+          download='carlos-ortiz-resume.pdf' 
+          class='cursor-pointer font-icon icon-pdf font-normal text-2xl ml-2 inline-block'
+        ></a>
+      </h2>
+    </div>
   </aside>
 
   <div class="sm:w-2/3 md:w-3/4 lg:w-4/5 p-3 sm:py-8 sm:px-8 dark:bg-gray-700 dark:text-white">
